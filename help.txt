@@ -1,0 +1,15 @@
+The carrom is a simple board game in which the player is given a  striker to put the coins into the pockets .The only constraint is that he has to pot the coins pertaining to a single color and not all the coins but the clock is ticking and he has to do it in the least possible time. Potting coins of other color result in deduction of points. The scoring pattern of the game is as follows :
+Red coin : 50 points
+Black coin : 10 points
+White coin : -5 points
+Potting the striker will result in a -5 points awarded to you .
+
+Keyboard and mouse play both have been given in the game .
+Keyboard:
+In this the up and down direction keys have been kept for setting the power of the shot .The right and the left direction keys have been kept for moving the striker on the panel provided .The direction of the hit can be specified using the a(anticlockwise) or c(clockwise) direction.
+Once the direction and the power has been specified the user can hit the striker using the spacebar .
+
+MousePlay:
+Using the right mouse click you can translate the striker on the panel .
+
+Clicking the left mouse click sets the magnitude or power of the hit and clicking on the board sets the striker moving in that particukar direction from the original position with the magnitude of the key press . 
